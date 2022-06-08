@@ -2,7 +2,8 @@
 React Native Tasks
 
 1. todo-list 
-![image](https://user-images.githubusercontent.com/43933709/172509705-ae19ab34-c9c6-449e-b73a-a1600876ee2a.png)
+![image](https://user-images.githubusercontent.com/43933709/172510502-a565aeb9-a601-4f8d-9c2e-2742fe6e27cf.png)
+
 
 2. Users with search 
  
